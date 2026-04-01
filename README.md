@@ -33,6 +33,7 @@
 ## Input:
 
 ### Output:
+<img width="717" height="443" alt="Screenshot 2026-03-16 175410 (1)" src="https://github.com/user-attachments/assets/24a11a31-7e83-4e5e-bf76-fbe413d1592d" />
 
 
 ### Name:
